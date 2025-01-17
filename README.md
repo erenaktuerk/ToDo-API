@@ -11,7 +11,6 @@ Table of Contents
 	4.	API Endpoints
 	5.	Project Structure
 	6.	Contributing
-	7.	License
 
 Features
 	•	Full CRUD functionality for managing tasks:
